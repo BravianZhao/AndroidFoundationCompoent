@@ -1,4 +1,4 @@
-# AndroidFoundationCompoent
+# AndroidFoundationComponent
 The project includes the needs of the basic components required by Android application developers。
 
 ## 1. Asynchronous sequential task queue 异步顺序任务队列
