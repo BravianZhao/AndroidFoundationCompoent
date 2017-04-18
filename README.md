@@ -9,3 +9,5 @@ The project includes the needs of the basic components required by Android appli
 A B C 可以在不同的线程中执行，也可以在同一个线程中执行。
 ### 1.3 可以方便进行任务重复调用
 A 执行失败，可以发起 A 任务重试，也会自动重试 B C 任务。
+### 1.4 可以随意增加后续任务数量
+可以在任何时刻随意在 A B C 队列中增加 C D E F 等顺序执行的任务。
